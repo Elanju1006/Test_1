@@ -1,0 +1,15 @@
+div{
+  border-radius: 10px;
+  background-color: grey;
+  color: white;
+  margin: 200px;
+  
+}
+h1{
+  font-size: medium;
+  color: aqua;
+  padding:100px;
+}
+p{
+  padding: 100px;
+}
